@@ -1,7 +1,7 @@
 
-![image](https://github.com/user-attachments/assets/d29810c1-37ab-4636-8451-48a671390a3c)
+![image](https://github.com/user-attachments/assets/88f77a6d-6acd-447c-b2e7-296428da9096)
 
-**📊overview**
+****📊overview****
 
 This **Excel** report provides a comprehensive analysis of Amazon's sales performance 2025 based on dashboard data. The insights cover:  
 🛍️ **Product-wise**, 📂 **Category-wise**, 👥 **Customer-wise**, and 💳 **Payment method-wise** sales, offering a deep understanding of business trends and customer behavior.  
