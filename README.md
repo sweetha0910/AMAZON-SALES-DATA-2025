@@ -1,7 +1,7 @@
-##AMAZON-SALES-DATA-2025##
+**AMAZON-SALES-DATA-2025**
 
-📌 Project: #Amazon Sales Data Analysis#
-🛠 Tool Used: #Excel#
+**📌 Project**: Amazon Sales Data Analysis
+**🛠 Tool Used**: #Excel
 
 
 ![image](https://github.com/user-attachments/assets/88f77a6d-6acd-447c-b2e7-296428da9096)
