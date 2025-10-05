@@ -1,4 +1,4 @@
-**AMAZON-SALES-DATA-2025**
+**Amazon sales Data 2025**
 
 **📌 Project**: Amazon Sales Data Analysis
 
